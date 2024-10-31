@@ -1,38 +1,36 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "United Lands of Hedge",
+		"leaderName": "Sonsuk The Great",
+		"adjective": ["Hedge"],
+		"startBias": ["Plains"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Top of the morning aint it?",
+		"startIntroPart2": "A Nation right around the hedge.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "GET OUTTT!",
+		"attacked": "I Shall RETALIATE!!",
+		"defeated": "Well played.",
+		"introduction": "As people of the hedge, I shall keep peace in the region!",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "What's up?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralNo": ["Hail nah!","No!","I respectfully decline."],
+		"neutralYes": ["Oh yea!","Of course, yes.","That is very nice."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Why are you here?",
+		"hateLetsHearIt": ["Speak!","What do you wanna say?","Go on."],
+		"hateNo": ["IMPOSSIBLE!!","HAIL NAHHH!!","I beg your pardon?"],
+		"hateYes": ["sure I guess..","That is good enough.","Very well then..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "I am glad we came to an agreement!",
+		"tradeRequest": "We offer you something.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [24, 37, 251],
+		"innerColor": [157, 157, 249],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Prower City","New Jahmad","Sleizburg","Kathrina City","Schleefen City","New Donsten","New Berber","New Diego","Santa Maria",
+			"San Keith","New Edith"]
 	}
 ]
