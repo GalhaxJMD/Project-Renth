@@ -1,5 +1,3 @@
-# Unciv-mod-example
+# Project Renth
 
-An example mod for Unciv, that adds one new Civilization.
-
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+A mod where I add all my fantasy nations. For fun!
